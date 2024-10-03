@@ -5840,7 +5840,7 @@ a.close.disabled {
 
 @media (min-width: 1200px) {
   .text{
-    font-size: 120px;
+    font-size: 100px;
   }
   .modal-xl {
     max-width: 1140px;
